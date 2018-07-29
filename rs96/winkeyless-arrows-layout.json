@@ -1,0 +1,161 @@
+[
+  {
+    "name": "RS96 Arrows"
+  },
+  [
+    "Esc",
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6",
+    "F7",
+    "F8",
+    "F9",
+    "F10",
+    "F11",
+    "F12",
+    "Home",
+    "End",
+    "Insert",
+    "Delete",
+    "PgUp",
+    "PgDn"
+  ],
+  [
+    "~\n`\n\n\nfn8",
+    "!\n1\n\n\nfn12",
+    "@\n2\n\n\nfn16",
+    "#\n3\n\n\nfn20",
+    "$\n4\n\n\nfn24",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    "_\n-",
+    "+\n=",
+    {
+      "w": 2
+    },
+    "Backspace",
+    "Num Lock",
+    "/",
+    "*",
+    "-"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    "Q\n\n\n\nfn5",
+    "W\n\n\n\nfn9",
+    "E\n\n\n\nfn13",
+    "R\n\n\n\nfn17",
+    "T\n\n\n\nfn21",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    "{\n[",
+    "}\n]",
+    {
+      "w": 1.5
+    },
+    "|\n\\",
+    "7\nHome",
+    "8\n↑\n\n\nvolup",
+    "9\nPgUp",
+    {
+      "h": 2
+    },
+    "+"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Caps Lock",
+    "A\n\n\n\nfn6",
+    "S\n\n\n\nfn10",
+    "D\n\n\n\nfn14",
+    "F\n\n\n\nfn18",
+    "G\n\n\n\nfn22",
+    "H",
+    "J",
+    "K",
+    "L",
+    ":\n;",
+    "\"\n'",
+    {
+      "w": 2.25
+    },
+    "Enter",
+    "4\n←\n\n\nprev",
+    "5\n\n\n\nplay",
+    "6\n→\n\n\nnext"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "Shift",
+    "Z\n\n\n\nfn7",
+    "X\n\n\n\nfn11",
+    "C\n\n\n\nfn15",
+    "V\n\n\n\nfn19",
+    "B\n\n\n\nfn23",
+    "N",
+    "M",
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "w": 1.75
+    },
+    "Shift",
+    "↑\n\n\n\nfn1",
+    "1\nEnd",
+    "2\n↓\n\n\nvoldown",
+    "3\nPgDn",
+    {
+      "h": 2
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win\n\n\n\nmycomp",
+    {
+      "w": 1.25
+    },
+    "Alt\n\n\n\ncalc",
+    {
+      "w": 6.25
+    },
+    "space",
+    {
+      "w": 1.5
+    },
+    "Alt\n\n\n\nfn25",
+    {
+      "w": 1.5
+    },
+    "fn0",
+    "←\n\n\n\nfn3",
+    "↓\n\n\n\nfn2",
+    "→\n\n\n\nfn4",
+    "0\nIns",
+    ".\nDel\n\n\nmute"
+  ]
+]
